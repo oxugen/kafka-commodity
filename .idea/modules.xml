@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kafka.iml" filepath="$PROJECT_DIR$/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core-consumer/spring-core-consumer.iml" filepath="$PROJECT_DIR$/spring-core-consumer/spring-core-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core-producer/spring-core-producer.iml" filepath="$PROJECT_DIR$/spring-core-producer/spring-core-producer.iml" />
+    </modules>
+  </component>
+</project>
